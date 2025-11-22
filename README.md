@@ -1,6 +1,6 @@
 # Repo of tutorial notebooks for EEG-BCI
 
-A common question I encounter online, is "how do I get started with BCI". 
+A common question I encounter online, is "how do I get started with BCI?" 
 
 I've been working with neural data for a decade, in research and industry, and hope this repo can help address this question!  
 
