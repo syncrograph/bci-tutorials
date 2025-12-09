@@ -4,8 +4,7 @@ A common question I encounter online, is "how do I get started with BCI?"
 
 I've been working with neural data for a decade, in research and industry, and hope this repo can help address this question!  
 
-EEG analysis and decoding is complicated. My hope in building these tutorials is to help hone intuition by doing. You do not need to necessarily start with understanding the complex math, or neuroscience to start seeing how neural signals, and important algorithms, behave. I think it's possible to learn neural data analysis starting from a more applied angle, similarly to how an artist uses complex mathematical tools like photoshop and digital audio workspaces to hone their instincts, and make amazing things.  
-
+EEG analysis and decoding is complicated. And you do not need to necessarily start with understanding the complex math, or neuroscience to start seeing how neural signals, and important algorithms, behave.  
 Gaining intuition about the signals, some quirks of human behavior in neuroscience experiments, noise conditions and limits of existing hardware/signal processing is the bedrock for building cool new tools.
 
 This repo is focused on building applied experience with the data, my aim is to be light on theory, especially in the early tutorials, but I'll provide context and links where appropriate (and will elaborate on theory more if requested and time permits). 
